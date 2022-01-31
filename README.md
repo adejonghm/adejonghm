@@ -5,9 +5,9 @@
 
 <br/>
 
-I am a Computer Engineer with more than 8 years of experience in IT, a lover of web development who decided to enter the world of containers and everything related to the DevOps culture, where I currently work. I have a master's degree in Automation and Control Systems, from the Department of Mechanical Engineering of the Polytechnic School of the University of São Paulo.
+I am a Computer Engineer with more than 8 years of experience in IT, a lover of web development who decided to enter the world of containers and everything related to the DevOps culture, where I currently work. I have a master's degree in Automation and Control Systems, from the Department of Mechanical Engineering of the Polytechnic School of the University of Sao Paulo.
 
-In my free time I like to ride a bike and share good times with family and friends.
+I live in Sao Paulo, Brazil and in my free time I like to ride a bike, share good times with my family/friends or play sports.
 
 **Technologies and tools**
 
