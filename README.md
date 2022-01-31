@@ -11,7 +11,7 @@ In my free time I like to ride a bike and share good times with family and frien
 
 **Technologies and tools**
 <div style="display: inline_block">
-  <img align="center" alt="django" width="4%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg">
+  <img align="center" alt="django" width="4%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg">
   <img align="center" alt="python" width="4%" src="https://www.vectorlogo.zone/logos/python/python-icon.svg">
   <img align="center" alt="jupyter" width="4.5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg">
   <img align="center" alt="git" width="4%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
