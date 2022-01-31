@@ -18,8 +18,6 @@ In my free time I like to ride a bike and share good times with family and frien
   <img align="center" alt="git" width="4%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
   <img align="center" alt="docker" width="6%" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg">
   <img align="center" alt="kubernetes" width="4%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg">
-  <img align="center" alt="terraform" width="4%" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg">
-  <img align="center" alt="azure" width="5%" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg">
   <img align="center" alt="linux" width="4%" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg">
 </div>
 
