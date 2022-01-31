@@ -10,8 +10,17 @@ I am a Computer Engineer with more than 8 years of experience in IT, a lover of 
 In my free time I like to ride a bike and share good times with family and friends.
 
 **Technologies and tools**
-
-<img align="center" alt="django" width="4%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg"> <img align="center" alt="python" width="4%" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"> <img align="center" alt="jupyter" width="4.5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg"> <img align="center" alt="git" width="4%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"> <img align="center" alt="docker" width="6%" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"> <img align="center" alt="kubernetes" width="4%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"> <img align="center" alt="terraform" width="4%" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg"> <img align="center" alt="azure" width="5%" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"> <img align="center" alt="linux" width="4%" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg">
+<div style="display: inline_block">
+  <img align="center" alt="django" width="4%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg">
+  <img align="center" alt="python" width="4%" src="https://www.vectorlogo.zone/logos/python/python-icon.svg">
+  <img align="center" alt="jupyter" width="4.5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg">
+  <img align="center" alt="git" width="4%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
+  <img align="center" alt="docker" width="6%" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg">
+  <img align="center" alt="kubernetes" width="4%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg">
+  <img align="center" alt="terraform" width="4%" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg">
+  <img align="center" alt="azure" width="5%" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg">
+  <img align="center" alt="linux" width="4%" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg">
+</div>
 
 ---
 
