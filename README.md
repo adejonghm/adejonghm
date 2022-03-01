@@ -11,7 +11,7 @@ I live in Sao Paulo, Brazil and in my free time I like to ride a bike, share goo
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=adejonghm&show_icons=true&count_private=true&include_all_commits=true&custom_title=Github%20Status&hide=issues&border_radius=10&theme=onedark"/>
 </div>
 
-## Technologies & Tools
+### Technologies & Tools
 
 <div style="display: inline_block">
   <img align="center" alt="linux" width="4%" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg">
@@ -27,7 +27,7 @@ I live in Sao Paulo, Brazil and in my free time I like to ride a bike, share goo
 
 <br/>
 
-## Badges
+### Badges
 
 <div style="display: inline_block">
   <img align="center" alt="git" width="5%" src="badges/oci_fund_badge.png">
