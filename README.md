@@ -30,8 +30,8 @@ I live in Sao Paulo, Brazil and in my free time I like to ride a bike, share goo
 ### Badges
 
 <div style="display: inline_block">
-  <img align="center" alt="git" width="5%" src="badges/oci_fund_badge.png">
-  <img align="center" alt="git" width="5%" src="badges/docker_badge.png">
+  <img align="center" alt="git" width="6%" src="badges/oci_fund_badge.png">
+  <img align="center" alt="git" width="6%" src="badges/docker_badge.png">
 </div>
 
 ---
