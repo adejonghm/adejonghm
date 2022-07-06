@@ -29,6 +29,7 @@ I'm a person who is moved by challenges and new knowledge, Cuban who currently l
 
 <div style="display: inline_block">
   <img align="center" alt="azure-fundamentals" width="6%" src="https://objectstorage.us-ashburn-1.oraclecloud.com/n/idmicnmt3iu9/b/github-bucket-20220417-0231/o/badge-azure-az900.png">
+  <img align="center" alt="oci-fundamentals" width="5%" src="https://objectstorage.us-ashburn-1.oraclecloud.com/n/idmicnmt3iu9/b/github-bucket-20220417-0231/o/badge-sre-foundation.png">
   <img align="center" alt="oci-fundamentals" width="6%" src="https://objectstorage.us-ashburn-1.oraclecloud.com/n/idmicnmt3iu9/b/github-bucket-20220417-0231/o/badge-oci-fundamentals.png">
   <img align="center" alt="gitlab-associate" width="6%" src="https://objectstorage.us-ashburn-1.oraclecloud.com/n/idmicnmt3iu9/b/github-bucket-20220417-0231/o/badge-gitlab-associate.png">
   <img align="center" alt="linuxtips-docker" width="6.6%" src="https://objectstorage.us-ashburn-1.oraclecloud.com/n/idmicnmt3iu9/b/github-bucket-20220417-0231/o/badge-linuxtips-docker.png">
