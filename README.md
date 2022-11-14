@@ -8,7 +8,7 @@ I'm a person who is moved by challenges and new knowledge, Cuban who currently l
 
 <div>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adejonghm&layout=compact&border_radius=10&theme=onedark">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=adejonghm&show_icons=true&count_private=true&include_all_commits=true&custom_title=Github%20Status&hide=issues&border_radius=10&theme=onedark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=adejonghm&show_icons=true&count_private=true&include_all_commits=true&custom_title=Alejandro's%20GitHub%20Stats&hide=issues&border_radius=10&theme=onedark"/>
 </div>
 
 ### Technologies & Tools
