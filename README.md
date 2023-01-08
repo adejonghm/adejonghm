@@ -14,13 +14,13 @@ I'm a person who is moved by challenges and new knowledge, Cuban who currently l
 ### Technologies & Tools
 
 <div style="display: inline_block">
-  <img align="center" alt="linux" width="5%" src="https://objectstorage.us-ashburn-1.oraclecloud.com/n/idmicnmt3iu9/b/github-bucket-20220417-0231/o/os-linux.png">
-  <img align="center" alt="python" width="4.5%" src="https://objectstorage.us-ashburn-1.oraclecloud.com/n/idmicnmt3iu9/b/github-bucket-20220417-0231/o/lang-python.png">
-  <img align="center" alt="jupyter" width="5%" src="https://objectstorage.us-ashburn-1.oraclecloud.com/n/idmicnmt3iu9/b/github-bucket-20220417-0231/o/soft-jupyter.png">
-  <img align="center" alt="git" width="4.4%" src="https://objectstorage.us-ashburn-1.oraclecloud.com/n/idmicnmt3iu9/b/github-bucket-20220417-0231/o/soft-git.png">
-  <img align="center" alt="docker" width="7.3%" src="https://objectstorage.us-ashburn-1.oraclecloud.com/n/idmicnmt3iu9/b/github-bucket-20220417-0231/o/soft-docker.png">
-  <img align="center" alt="kubernetes" width="5%" src="https://objectstorage.us-ashburn-1.oraclecloud.com/n/idmicnmt3iu9/b/github-bucket-20220417-0231/o/soft-kubernetes.png">
-  <img align="center" alt="azure" width="4.3%" src="https://objectstorage.us-ashburn-1.oraclecloud.com/n/idmicnmt3iu9/b/github-bucket-20220417-0231/o/platf-azure.png">
+  <img align="center" alt="linux" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+  <img align="center" alt="python" width="4.5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="git" width="4.4%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="docker" width="7.3%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img align="center" alt="kubernetes" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
+  <img align="center" alt="terraform" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg">
+  <img align="center" alt="azure" width="4.3%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
 </div>
 
 <br/>
@@ -28,11 +28,11 @@ I'm a person who is moved by challenges and new knowledge, Cuban who currently l
 ### Badges
 
 <div style="display: inline_block">
-  <img align="center" alt="azure-fundamentals" width="6%" src="https://objectstorage.us-ashburn-1.oraclecloud.com/n/idmicnmt3iu9/b/github-bucket-20220417-0231/o/badge-azure-az900.png">
-  <img align="center" alt="oci-fundamentals" width="5%" src="https://objectstorage.us-ashburn-1.oraclecloud.com/n/idmicnmt3iu9/b/github-bucket-20220417-0231/o/badge-sre-foundation.png">
-  <img align="center" alt="oci-fundamentals" width="6%" src="https://objectstorage.us-ashburn-1.oraclecloud.com/n/idmicnmt3iu9/b/github-bucket-20220417-0231/o/badge-oci-fundamentals.png">
-  <img align="center" alt="gitlab-associate" width="6%" src="https://objectstorage.us-ashburn-1.oraclecloud.com/n/idmicnmt3iu9/b/github-bucket-20220417-0231/o/badge-gitlab-associate.png">
-  <img align="center" alt="linuxtips-docker" width="6.6%" src="https://objectstorage.us-ashburn-1.oraclecloud.com/n/idmicnmt3iu9/b/github-bucket-20220417-0231/o/badge-linuxtips-docker.png">
+  <img align="center" alt="azure-fundamentals" width="6%" src="./badges/azure-fundamentals.png">
+  <img align="center" alt="sre-fundamentals" width="5%" src="./badges/sre-foundation.png">
+  <img align="center" alt="oci-fundamentals" width="6%" src="./badges/oci-foundations.png">
+  <img align="center" alt="docker-linuxtips" width="6.6%" src="./badges/docker-badge.png">
+  <img align="center" alt="gitlab-associate" width="6%" src="./badges/gitlab-associate.png">
 </div>
 
 ---
