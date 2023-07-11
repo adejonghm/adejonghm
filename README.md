@@ -18,8 +18,9 @@ I'm a person who is moved by challenges and new knowledge, Cuban who currently l
   <img align="center" alt="python" width="4.5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="git" width="4.4%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="docker" width="7.3%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img align="center" alt="kubernetes" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
   <img align="center" alt="terraform" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg">
+  <img align="center" alt="kubernetes" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
+  <img align="center" alt="argocd" width="5%" src="https://github.com/devicons/devicon/blob/master/icons/argocd/argocd-original.svg">
   <img align="center" alt="azure" width="4.3%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
 </div>
 
@@ -30,7 +31,6 @@ I'm a person who is moved by challenges and new knowledge, Cuban who currently l
 <div style="display: inline_block">
   <img align="center" alt="azure-fundamentals" width="6%" src="./badges/azure-fundamentals.png">
   <img align="center" alt="sre-fundamentals" width="5%" src="./badges/sre-foundation.png">
-  <img align="center" alt="oci-fundamentals" width="6%" src="./badges/oci-foundations.png">
   <img align="center" alt="docker-linuxtips" width="6.6%" src="./badges/docker-badge.png">
   <img align="center" alt="gitlab-associate" width="6%" src="./badges/gitlab-associate.png">
 </div>
