@@ -1,8 +1,8 @@
 # About Me
 
-I'm a Computer Engineer with more than 8 years of experience in IT, a lover of web development who decided to venture into the world of containers, automation, and everything related to the DevOps culture, with which I currently work. I have a master's degree in Mechanical Engineering in the field of Environmental Acoustics, from the Department of Mechanical Engineering of the Polytechnic School of the University of Sao Paulo.
+I'm a Computer Engineer with over ten years of experience in IT, a lover of web development who decided to venture into the world of containers, automation, and everything related to the DevOps culture I work with nowadays. I have a master's degree in Mechanical Engineering, specifically, in the Environmental Acoustics area, from the Department of Mechanical Engineering of the Polytechnic School of the University of Sao Paulo.
 
-I'm a person who is moved by challenges and new knowledge, Cuban who currently lives in Sao Paulo, Brazil. In my free time, I like to share good moments with my family/friends, ride a bike and play sports.
+I am a Cuban living in Sao Paulo, Brazil, motivated by new challenges and the constant evolution of my knowledge. In my free time, I like to share good times with my family or friends, ride a bike and play sports.
 
 <br/>
 
@@ -39,9 +39,8 @@ I'm a person who is moved by challenges and new knowledge, Cuban who currently l
 
 <div align="center">
 
-  [![linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adejonghm)
-  [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/adejonghm)
+  [![linkedin](https://img.shields.io/badge/LinkedIn-1D5D9B?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adejonghm)
   [![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCgoPSCfoyiSlsdWMMxfq43Q)
-  [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/adejonghm)
+  [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/adejonghm)
 
 </div>
