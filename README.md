@@ -40,7 +40,7 @@ I am a Cuban living in Sao Paulo, Brazil, motivated by new challenges and the co
 <div align="center">
 
   [![linkedin](https://img.shields.io/badge/LinkedIn-1D5D9B?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adejonghm)
-  [![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCgoPSCfoyiSlsdWMMxfq43Q)
+  [![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@adejonghm)
   [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/adejonghm)
 
 </div>
