@@ -7,8 +7,8 @@ I am a Cuban living in Sao Paulo, Brazil, motivated by new challenges and the co
 <br/>
 
 <div>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adejonghm&layout=compact&border_radius=10&theme=onedark">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=adejonghm&show_icons=true&count_private=true&include_all_commits=true&custom_title=Alejandro's%20GitHub%20Stats&hide=issues&border_radius=10&theme=onedark"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adejonghm&layout=compact&border_radius=10&theme=onedark">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=adejonghm&show_icons=true&count_private=true&include_all_commits=true&custom_title=Alejandro's%20GitHub%20Stats&border_radius=10&theme=onedark">
 </div>
 
 ### Technologies & Tools
@@ -20,7 +20,7 @@ I am a Cuban living in Sao Paulo, Brazil, motivated by new challenges and the co
   <img align="center" alt="docker" width="7.3%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img align="center" alt="terraform" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg">
   <img align="center" alt="kubernetes" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
-  <img align="center" alt="argocd" width="5%" src="https://github.com/devicons/devicon/blob/master/icons/argocd/argocd-original.svg">
+  <img align="center" alt="argocd" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/argocd/argocd-original.svg">
   <img align="center" alt="azure" width="4.3%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
 </div>
 
