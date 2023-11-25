@@ -40,10 +40,10 @@ I am a Cuban living in Sao Paulo, Brazil, motivated by new challenges and the co
 
 <div align="center">
 
-  [![codersrank](https://img.shields.io/badge/CodersRank-35A29F?style=for-the-badge&logo=codersrank&logoColor=white)](https://profile.codersrank.io/user/adejonghm/)
   [![linkedin](https://img.shields.io/badge/LinkedIn-1D5D9B?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adejonghm)
+  [![codersrank](https://img.shields.io/badge/CodersRank-35A29F?style=for-the-badge&logo=codersrank&logoColor=white)](https://profile.codersrank.io/user/adejonghm/)
   [![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@adejonghm)
-  [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/adejonghm)
-  [![medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@adejonghm)
+  [![discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/816104924924084247)
+  <!-- [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/adejonghm) -->
 
 </div>
